@@ -1,0 +1,51 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-gray-50 text-gray-900 font-sans;
+}
+
+nav {
+  @apply bg-blue-600 text-white p-4 mb-6;
+}
+
+nav ul {
+  @apply flex gap-4 list-none m-0 p-0;
+}
+
+nav li {
+  @apply inline-block;
+}
+
+nav a, nav button {
+  @apply text-white hover:text-yellow-300 transition;
+}
+
+form {
+  @apply bg-white p-6 rounded shadow max-w-md mx-auto my-8;
+}
+
+label {
+  @apply block mb-2 font-semibold;
+}
+
+input, select, button {
+  @apply block w-full mb-4 p-2 border border-gray-300 rounded;
+}
+
+button {
+  @apply bg-blue-600 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 transition;
+}
+
+h1, h2 {
+  @apply text-center font-bold mb-4;
+}
+
+ul {
+  @apply list-disc pl-6;
+} */
+
+@import "tailwindcss";
+
